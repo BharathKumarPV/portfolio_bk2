@@ -3,7 +3,7 @@
 Interactive 3D particle hero portfolio featuring custom Three.js WebGL dots animation, reveal transitions, dynamic project showcase, tech stack universe, interactive journey timeline, and smooth scroll effects.
 
 ## 🚀 Live Links
-- **Live Website**: [https://portfolio-bk2.vercel.app](https://portfolio-bk2.vercel.app)
+- **Live Website (Vercel)**: [https://portfoliobk2.vercel.app](https://portfoliobk2.vercel.app)
 - **GitHub Repository**: [https://github.com/BharathKumarPV/portfolio_bk2](https://github.com/BharathKumarPV/portfolio_bk2)
 
 ## 🛠️ Features & Stack
